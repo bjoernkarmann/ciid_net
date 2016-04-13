@@ -18,9 +18,9 @@
     //===============================//
     //        SORT BY YEAR           //
     //===============================//
+      
     
-    
-    for(int i=0; i<9; i++){
+    for(int i=0; i<11; i++){
 
       String[] task = {"year","name","c0","c1","c2","c3","c4","c5","c6","c7","c8"};
       
@@ -82,91 +82,6 @@
           }
         }
         
-        // COMPANIE 1
-        if(i==2){
-          if(c1.equals("")){}else{
-            if(year.equals(prevRow)) {
-              String everything = oldRow.getString("related");
-              oldRow.setString("related", everything+","+name);          
-            } else {
-              TableRow newSortedRow = sortedTable.addRow();
-              newSortedRow.setString("target", c1);
-              newSortedRow.setString("related", name);        
-              oldRow = newSortedRow;
-            }
-          }
-        }
-        
-        // COMPANIE 2
-        if(i==3){
-          if(c2.equals("")){}else{
-            if(year.equals(prevRow)) {
-              String everything = oldRow.getString("related");
-              oldRow.setString("related", everything +","+name);          
-            } else {
-              TableRow newSortedRow = sortedTable.addRow();
-              newSortedRow.setString("target", c2);
-              newSortedRow.setString("related", name);        
-              oldRow = newSortedRow;
-            }
-          }
-        }
-        // COMPANIE 3
-        if(i==4){
-          if(c3.equals("")){}else{
-            if(year.equals(prevRow)) {
-              String everything = oldRow.getString("related");
-              oldRow.setString("related", everything+","+name);          
-            } else {
-              TableRow newSortedRow = sortedTable.addRow();
-              newSortedRow.setString("target", c3);
-              newSortedRow.setString("related", name);        
-              oldRow = newSortedRow;
-            }
-          }
-        }
-        // COMPANIE 4
-        if(i==5){
-          if(c4.equals("")){}else{
-            if(year.equals(prevRow)) {
-              String everything = oldRow.getString("related");
-              oldRow.setString("related", everything + ","+name);          
-            } else {
-              TableRow newSortedRow = sortedTable.addRow();
-              newSortedRow.setString("target", c4);
-              newSortedRow.setString("related", name);        
-              oldRow = newSortedRow;
-            }
-          }
-        }        
-        // COMPANIE 5
-        if(i==6){
-          if(c5.equals("")){}else{
-            if(year.equals(prevRow)) {
-              String everything = oldRow.getString("related");
-              oldRow.setString("related", everything + ","+name);          
-            } else {
-              TableRow newSortedRow = sortedTable.addRow();
-              newSortedRow.setString("target", c5);
-              newSortedRow.setString("related", name);        
-              oldRow = newSortedRow;
-            }
-          }
-        }
-        // COMPANIE 6
-        if(i==7){
-          if(c6.equals(" ")){}else{
-            if(year.equals(prevRow)) {
-              String everything = oldRow.getString("related");
-              oldRow.setString("related", everything + ","+name);          
-            } else {
-              TableRow newSortedRow = sortedTable.addRow();
-              newSortedRow.setString("target", c6);
-              newSortedRow.setString("related", name);        
-              oldRow = newSortedRow;
-            }
-          }
-        }
                       
         prevRow = year;
         rowCount++;
@@ -186,6 +101,7 @@
       
       
     }
+    saveTable(sortedTable, "data/sorted.csv");
    println(sortedTable.getRowCount());
   }
   
