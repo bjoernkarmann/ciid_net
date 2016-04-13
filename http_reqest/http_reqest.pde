@@ -3,7 +3,7 @@ import http.requests.*;
 
 void setup(){  
   String[] list = getData().split("company/");  
-  for(int i=1; i<10; i++){
+  for(int i=1; i<5; i++){
     String[] company = splitTokens(list[i],"><");
     println(company[1]);
   }
