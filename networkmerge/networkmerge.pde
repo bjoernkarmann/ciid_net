@@ -30,12 +30,12 @@
       newRow.setString("companies", curComp + ", " + prevComp);
       
       saveTable(sortedData, "data/new.csv");
+      mID++;
     }
     
     println("yolo we're done");
     
     
-    mID++;
   }
   
   void draw() {
