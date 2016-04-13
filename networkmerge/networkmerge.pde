@@ -52,7 +52,15 @@
         newRow.setString("c"+i, newTotalComp[i]);
       }
       
-      mID++;
+
+
+      
+      saveTable(sortedData, "data/new.csv");
+
+
+    mID++;
+
+
     }
     
     saveTable(sortedData, "data/new.csv");
