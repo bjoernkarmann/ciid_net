@@ -19,7 +19,7 @@
       int       id         = row.getInt("id");
       int       year       = row.getInt("year");
       String    firstName  = row.getString("first name");
-      String    middleName = row.getString("middle name");
+      String    middleName = row.getString("middle/other names");
       String    lastName   = row.getString("last name");
       String    curComp    = row.getString("current");
       String    prevComp   = row.getString("prev");
@@ -46,16 +46,16 @@
       
       newRow.setInt("id", mID); 
       newRow.setInt("year", year);
-      newRow.setString("name", firstName + " " + middleName + " " + lastName);
+      newRow.setString("name", fullName);
       
       for(int i=0; i<newTotalComp.length; i++) {
         newRow.setString("c"+i, newTotalComp[i]);
       }
       
-      
-      saveTable(sortedData, "data/new.csv");
       mID++;
     }
+    
+    saveTable(sortedData, "data/new.csv");
     
     println("yolo we're done");
   }
