@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Locate words bitches</title>
+    <style>
+      body {
+        font-family: "Anonymous Pro", "Courier Pro";
+        font-size: 14px;
+
+        color: #444;
+      }
+      .wrap {
+        width: 600px;
+        min-height: 50px;
+        background: #fff;
+        margin: 25px auto;
+      }
+      p {
+        line-height: 15px;
+      }
+      span {
+        word-break: break-all;
+      }
+    </style>
+
+  </head>
+  <body>
+      <div class="wrap">
+        <p id="formattedtext"></p>
+      </div>
+  </body>
+
+  <script type="text/javascript">
+    var formattedText = ["Lorem", "ipsum", "dolor", "sit", "amet,", "consectetur", "adipiscing", "elit.", "Donec", "gravida", "eros", "ut", "mi", "tempus,", "nec", "aliquam", "est", "laoreet.", "Sed", "pretium", "lectus", "ut", "tellus", "vulputate", "pharetra.", "Sed", "ac", "orci", "at", "eros", "euismod", "tristique", "eu", "id", "nibh.", "Morbi", "tincidunt", "purus", "vel", "ante", "tincidunt", "convallis.", "Etiam", "est", "augue,", "venenatis", "non", "dui", "vehicula,", "finibus", "imperdiet", "nunc.", "Quisque", "neque", "nisi,", "pulvinar", "nec", "lectus", "vel,", "blandit", "mattis", "dolor.", "Aliquam", "eros", "nibh,", "varius", "rhoncus", "nulla", "quis,", "tristique", "pretium", "massa.", "Praesent", "porta", "facilisis", "iaculis.", "Morbi", "eu", "faucibus", "urna."];
+
+    var textElement = document.getElementById("formattedtext");
+
+    for(var i=0; i<formattedText.length; i++){
+      textElement.innerHTML = textElement.innerHTML + "<span id=text"+i+">"+formattedText[i]+" </span>";
+    }
+
+
+    function getPosition(number) {
+      var elem = document.getElementById("text"+number).getBoundingClientRect();
+      return elem.top + " " + elem.left;
+    }
+  </script>
+</html>
