@@ -140,7 +140,7 @@
       println(target+"\t\t\t"+related);
     }
          
-    saveTable(compressedTable, ".../data/sortedTable.csv");
+    saveTable(compressedTable, ".../data/horse.csv");
     println(compressedTable.getRowCount());
   }
   
