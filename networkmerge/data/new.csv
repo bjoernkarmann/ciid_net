@@ -1,176 +1,176 @@
-id,year,name,companies
-0,2008,adam  litte,", "
-0,2008,francesco  mondelli,"freelance, "
-0,2008,nina nygaard christoffersen,", "
-0,2008,alice  pintus,"arduino, "
-0,2008,hung-lin hsu jason,"Alibaba.com, "
-0,2008,nunzia  coco,"Università Ca' Foscari Venezia, "
-0,2008,andreas  hesse,"Pimp My Pixel, "
-0,2008,jacob sikker remin,"Yuanfen~Flow, "
-0,2008,sarasiff  kjaergård,"Designit, "
-0,2008,ane aline soerenson,", "
-0,2008,kevin  cannon,"Frog, "
-0,2008,siddharth  muthyala,"LEGO, "
-0,2008,ashwin  rajan,"Fabric, "
-0,2008,magnus  bendtsen,"Lungeforeningen, "
-0,2008,tobias  toft,"Polyera, "
-0,2008,eilidh  dickson,"CIID Consulting, "
-0,2008,marcin  ignac,"Variable.io, "
-0,2008,ujjval  panchal,", "
-0,2008,erlend  kyte,"Volvo, "
-0,2008,mimi hyunjeong son,"Kimchi and Chips, "
-0,2008,yves yu-min chen,"uknowiknow.com, "
-0,2009,anders  hoejmose,"HP, IBM, CIID, Trace ApS"
-0,2009,gizem  boyacioglu,"8 Interactions & Production, CIID, BYC Group, Toyota"
-0,2009,martina  pagura,"HP, CIID, Microsoft Research"
-0,2009,benoit  ishac bertran,", "
-0,2009,mary  huang,"Continuum Fashion, New York University, Shapeways, Local Projects"
-0,2009,david  sjunneson,"IDEO, Tellart, 1scale1, malmo university"
-0,2009,jacek  barcikowski,"BBC, BBC, CIID, Yamaha"
-0,2009,mayo  nissen,"Frog, ReD Associates, Urbanscale, Radarstation"
-0,2009,dean  mcnamee,"Trouble, Google, LEGO, Wikipedia,Warp Records, Deutsche Bank, GF Smith, The Times, Ableton, Native Instruments"
-0,2009,jennifer  kay,"Intel, CIID, Native Design"
-0,2009,pedro nakazato andrade,"IDEO, Microsoft Research, Tatil Design, Insitum Strategy Innovation and Research,"
-0,2009,elena  gianni,"The New York Times, CIID Consulting, Experientia, TODO"
-0,2009,jesper  svenning,"freelance, PHENOMENON, Nexon, Egmont"
-0,2009,sebastian roende thielke,"Leapcraft, royal danish academy of fine arts, school of design"
-0,2009,eric norman stevenson,", "
-0,2009,laura  boffi,", Indesit Company, Fondazione Bruno Kessler (FBK-irst), Publicis Healthware International,"
-0,2009,shruti  ramiah,"IDEO, Designit, Nokia"
-0,2009,filippo  cuttica,"BBC, IOCOSE, BBC, Foolproof, Bruce Mau Design"
-0,2009,li  bian,"Emotibot Technologies Limited, Emotibot, TCL Research, Truonex Corporation"
-0,2009,ulrik a hogrebe,"Frog, BBC"
-0,2011,ali seçkin  karayol,"Alis Design, F5 Production, Persona"
-0,2011,harsha vardhan ramesh babu,", "
-0,2011,marco  triverio,"Apple, IDEO, Stanford University, CIID, California College of the Arts"
-0,2011,alix  gillet-kirt,"CIID consulting, UiWE Culture Design, Tidepool.org, CIID"
-0,2011,helle rohde andersen,"CIID Consulting, Hatch & Bloom A/S, Gademode.dk"
-0,2011,marthinus  oosthuizen,", "
-0,2011,chris  bierbower,", "
-0,2011,hyeona  yang,"HitFox Group, YMCA, Amoeba design studio, IBM"
-0,2011,martin tai lyhne jensen,"ustwo, Frugal Digital,CIID, KEA Design Charrette, CIID Open Lecture"
-0,2011,daim  yoon,"IBM, Cisco, Native Design, all communication"
-0,2011,john  lynch,"Future Cities Catapult, CIID Consulting, Freelance, Noho Ltd."
-0,2011,mette  lyckegaard,"HMRC - Government Digital Service, Elderberry, Native Design, CIID"
-0,2011,hao-ting  chang,"HARMAN International, MUUSE, Service Science Research Center"
-0,2011,joshua  noble,"TEAGUE, frog, Independant Consultant, Cynergy Systems"
-0,2011,wan-ting  liao,"designaffairs GmbH, Designit, CIRAP"
-0,2011,harikrishnan  gopalakrishnan,"freelance, CIID"
-0,2011,kristjana  gudjonsdottir,"Qlik, Siminn"
-0,2011,yufan wei wang,"LEGO, freelance"
-0,2012,ana catharina marques,"caixacard-caixa bank, privalia, EADA, HUMAN MANAGEMENT SYSTEMS"
-0,2012,kat  zorina,"IDEO, IDEO, CIID, Freelance"
-0,2012,razan  sadeq,"Spotify, stylight gmbh, art+com, vardot"
-0,2012,andrew  nip,"sapientnitro, made by many, designit, sap"
-0,2012,katie  kindinger,"freelancer, flightradar24 ab, seat4a - the flying app, awesomefat"
-0,2012,rohit  sharma,", kl7, CIID, hitlabnz"
-0,2012,andrew  spitz,"frolic, sound + design, sound design stack exchange, seat 4a - the flying app, freelance"
-0,2012,kenneth aleksander robertsen,"ideo, CIID, boerresen & co reklamebyra, business graphics as"
-0,2012,ruben  van der vleuten,"frolic , urogyn bv, vanberlo"
-0,2012,andrew  stock,", "
-0,2012,kostantinos  frantzis,"ideo, ideo, intel, velux"
-0,2012,sara  krugman,"tidepool.org, line health care design studios, CIID, freelance"
-0,2012,antoni  kaniowski,"leapcraft, CIID, wwwas.it, big data viz academy"
-0,2012,manas  karambelkar,"dr. reddys laboratories, yuj designs, independent design research, intel"
-0,2012,signe marbjerg thomsen,"vejle hospital, plan f, rundkant, by-rum & lighed, rundkant, hoe360 consulting"
-0,2012,dor  levi,"lyft, groupon, lighthouse technologies, HP"
-0,2012,markus  schmeiduch,"google, smeidu, flying, kiezexplorer.com"
-0,2012,umesh  janardhanan,", moonraft innovation labs, samsung"
-0,2012,hideaki  matsui,"google, fuseproject, smart design, united curve design"
-0,2012,martin malthe borch,"implement consulting group, rebbls, university of copenhagen, beatt, gxn-3xn"
-0,2012,zubin  pastakia,"ideo, frugal, CIID, freelance"
-0,2012,inbal  lieblich,"book&me, freelance, norrdans, studio fun international limited"
-0,2012,momo  miyazaki,"ideo, ideo, moma, dedegumo"
-0,2013,angela  oguntala,"Head , Eskild Hansen, CIID, AMD"
-0,2013,neha  parekh,", PowerToFly, Mirror Me, 8848 Sports Pvt Ltd."
-0,2013,sara  salsinha,"BBC Future Media, t_insight"
-0,2013,ankkit  modi,", Pilotfish, Eyebeam, Experiential Design Lab"
-0,2013,niels christian konrad nielsen,"KCKN, "
-0,2013,shamik  ray,"Barclaycard, Makersome, Barclays, TouchMagix Media"
-0,2013,bahareh  shahriari,", "
-0,2013,ole stobbe nielsen,"Sneezy, "
-0,2013,shu yang lin,"Tellart, Griphint, Re:public, Rokoko"
-0,2013,daniel  mahal,"Internetfriendsforever, Unfold, Try/Apt, Freelance"
-0,2013,owen  mcfadzen,"Sneezy, Rysensteen Collage, ioGates, Designskolen Kolding"
-0,2013,takeshi  okahashi,", Coco-on, Hokkaido Univeristy"
-0,2013,jane  wong,"30 weeks, R/GA, RUNE, Giannone Petricon, Force4 Architects"
-0,2013,pierluigi  dalla rosa,"binaryfutures, Tellart, Yournalism, Panasonic Silicon Valley Lab"
-0,2013,wouter  walmink,"Podio, Citrix, Studio:luden, Zoowm, Wanderlands, RMIT Uiversity"
-0,2013,lasse  korsgaard,", Hello Monday, BBH New York, NERD Communication"
-0,2013,priyanka  kodikal,", Nest:GripHint, Leapcraft, Orange"
-0,2013,zaza  zuilhof,"Tellart, Mediamatic, t Koffiehuisje"
-0,2013,luke  sturgeon,"University of Hertfordshire, SomeOne/Else, The Division, Homemade"
-0,2013,ritika  mathur,"Fiserv, LG Electronics"
-0,2014,akarsh  sanghi,"The Studio, Keio-NUS CUTE Center, Electrolux, LEGO Future Lab"
-0,2014,claudia  ciarpella,"Designit, Designit, Clementoni, Electrolux"
-0,2014,paula  te,"Xerox , CIID, Karkhana"
-0,2014,amalia  goutaki,"DWNLD, Electrolux, Novo Nordisk, TEDxAthens"
-0,2014,francesca  desmarais,"CIID consulting, Architecture 2030, The Colorado College, KEO Consultants"
-0,2014,peter otto kuhberg,"CIID, CIID"
-0,2014,anders stougaard erlendsson,"Rockwool Foundation Research Unit, Remories, Remories, Wolf by Wolf, Yoke ApS, Danish Maritime"
-0,2014,haz  roth,"Philips Design, KRUKOW, The Young Foundation, Identity Magazine"
-0,2014,samantha  lim,"R/GA, Experientia, Keio-NUS CUTE Center, Hewlett-Packard"
-0,2014,angelisa  scalera,"Liceo Gobetti-Segré, UNIT9, AGON, Albe Steiner Institute - School of Graphics and Advertising"
-0,2014,henriette kruse joergensen,", "
-0,2014,samer  nakfour,"IDEO, "
-0,2014,arun remy mota,"Minimiles, "
-0,2014,julian  kraan,"IDEO, CIID Nest, SchmauderRohr, Crafft Kommunikation"
-0,2014,saurabh  datta,"frog, fabrica, tellart, electrolux, lego group, "
-0,2014,arunima  singh,"Dr. Reddy's Laboratories, lucida"
-0,2014,kaitlyn  schwalje,", "
-0,2014,simon  herzog,"CIID nest, Kollabora, Gust, LLC, Stanford University"
-0,2014,bethany  snyder,"DigitasLBi, Parenthoods, Inc., PAW, Inc., East West Fine Art"
-0,2014,martino  bilello,"BBC, SoftLayer, Google, Satyendra Pakhalé Associates"
-0,2014,yang  hsiang-lin,"Pegatron, Pilotfish, Pegatron, Inventec Multimedia & Telecom"
-0,2014,chia yu  hsu,"frog, Wire™, Chunghwa Telecom Laboratories, PolarLab"
-0,2014,myoungeun  kim,"iconmobile group, Experientia, LG Electronics, Motive flux"
-0,2014,yashodeep  gholap,"freelance, Fontlab"
-0,2015,akshay  verma,", ciid"
-0,2015,aoyu  li,", "
-0,2015,melina  pyykkonen,"Boliden, CIID, Melina Pyykkonen, TomTom"
-0,2015,alejandra  molina,", Alemolina, Codeando México, SISU Technologies"
-0,2015,havard  lundberg,", Øyafestivalen AS, The National Archives of Norway, AgroPlas AS"
-0,2015,michael owen liston,"Design Consultant, CIID, Usability Matters, Bibliocommons"
-0,2015,andreas  refsgaard,"Circus Family, IT University of Copenhagen, Forlaget Radius, Thomas Lystlund Studio"
-0,2015,john  ferreira,"Media Sifter, CIID, Samsung Design Europe, Fjord"
-0,2015,riccardo  cereser,", Facebook, Bloom"
-0,2015,chelsey  wickmark,", UNDP Idependent Evaluation Office, UN Office for South-South Cooperation, UNICEF"
-0,2015,karan chaitanya mudgal,"Mylin, Aveta Biomics, Philips Design Healthcare, Jana Mobile"
-0,2015,sergey  komardenkov,"Лаборатория Wonderfull, TSYS, RIT Wallace Center, IBM"
-0,2015,ciaran  duffy,"CIID, Saitama Prefecture Board of Education, Collège Le Hérault, Nantes, France., Lycée Professionnelle François Arago, Nantes, France"
-0,2015,kare magnus sand solvag,"CIID, "
-0,2015,shruti  knr,"Scneider Electronic, LG Electronics"
-0,2015,dhruv  saxena,", littleBits, Robert Bosch Centre for Cyner Physical Systems, Imbibe labs"
-0,2015,liliana  lambriev,"Babylon Berlin, Bridge of Spies, Scholz & Friends, Passengers"
-0,2015,sierra  nelmes,"SierraNelmes, Square"
-0,2015,feild  craddock,", Smat Design, Key Technologies, inch"
-0,2015,line  brigitte,", "
-0,2015,sudhanshu  gautam,", CIID, Tech Mahindra"
-0,2015,gunes  kantaroglu,", Vodafone, Bikent University"
-0,2015,manu  dixit,", Barclays, IKEA, Human Factor International"
-0,2015,victoria  hammel,", CPH Service Jam"
-0,2015,vihanga  gore,", Barclays, IKEA"
-0,2016,luca  mustacchi,"ciid, jemp, studio alessandri"
-0,2016,dario  loerke,"ciid, copper and wheat, mssng links - gather and create, stadtpark musik"
-0,2016,monika  seyfried,"ciid, "
-0,2016,kate  twomey,"ciid, "
-0,2016,mikio  kiura,"canon, ciid, webnium, canon"
-0,2016,lars  kaltenbach,"ciid, "
-0,2016,daan  weijers,"ciid, freelance, tellart, no.dots, eindhoven university of technology, less or more"
-0,2016,priscila  ferreira,"ciid, "
-0,2016,justine  syen,"ciid, procter & gamble, po-events"
-0,2016,adriana  chiaia,"ciid, d-service media srl, mediobanca, ediosmedia"
-0,2016,cyrus  kamath,"ciid, l'Oreal, one young world, financial times"
-0,2016,jivitesh  rangline,"ciid, fractal ink, rubberband products, vivek amberkar product design"
-0,2016,sophie  chow,"ciid, sennheiser, business & technical languages groupe, henan hope project"
-0,2016,sena  partal,"ciid, magma design, santa & cole, elisava"
-0,2016,grishma  rao,"ciid, pointshelf, ecole intuit lab, radiationism, topcoder, indiecision/NH7"
-0,2016,mette  moerch,", "
-0,2016,luuk  rombouts,"ciid, qoion, less or more, chimpworks, de jongens van de tu, camptoo, nano supermarket"
-0,2016,nicolas  armand,"ciid, "
-0,2016,iskra  uscumlic,"ciid, destilerija dobrih ideja, road to design"
-0,2016,ines  araujo,"ciid, metalab, bliss applications, etic escola de tecnologias inovacao e criacao"
-0,2016,leila  byron,"ciid, groupe smcp, marc jacobs, un'style'ddesigns"
-0,2016,charlie  gedeon,"ciid, sweetiq analytics corp, john molson marketing association, casajmsb"
-0,2016,bjoern  karmann,"ciid, moovelLab, masters reklamebureau, mental act studio"
-0,2016,mary  mikhail,"ciid, "
+id,year,name,c0,c1,c2,c3,c4,c5,c6,c7,c8
+0,2008,adam litte,,,,,,,,,
+1,2008,francesco mondelli,freelance,,,,,,,,
+2,2008,nina nygaard christoffersen,,,,,,,,,
+3,2008,alice pintus,arduino,,,,,,,,
+4,2008,hung-lin hsu jason,Alibaba.com,,,,,,,,
+5,2008,nunzia coco,Università Ca' Foscari Venezia,,,,,,,,
+6,2008,andreas hesse,Pimp My Pixel,,,,,,,,
+7,2008,jacob sikker remin,Yuanfen~Flow,,,,,,,,
+8,2008,sarasiff kjaergård,Designit,,,,,,,,
+9,2008,ane aline soerenson,,,,,,,,,
+10,2008,kevin cannon,Frog,,,,,,,,
+11,2008,siddharth muthyala,LEGO,,,,,,,,
+12,2008,ashwin rajan,Fabric,,,,,,,,
+13,2008,magnus bendtsen,Lungeforeningen,,,,,,,,
+14,2008,tobias toft,Polyera,,,,,,,,
+15,2008,eilidh dickson,CIID Consulting,,,,,,,,
+16,2008,marcin ignac,Variable.io,,,,,,,,
+17,2008,ujjval panchal,,,,,,,,,
+18,2008,erlend kyte,Volvo,,,,,,,,
+19,2008,mimi hyunjeong son,Kimchi and Chips,,,,,,,,
+20,2008,yves yu-min chen,uknowiknow.com,,,,,,,,
+21,2009,anders hoejmose,HP,IBM,CIID,Trace ApS,,,,,
+22,2009,gizem boyacioglu,8 Interactions & Production,CIID,BYC Group,Toyota,,,,,
+23,2009,martina pagura,HP,CIID,Microsoft Research,,,,,,
+24,2009,benoit ishac bertran,,,,,,,,,
+25,2009,mary huang,Continuum Fashion,New York University,Shapeways,Local Projects,,,,,
+26,2009,david sjunneson,IDEO,Tellart,1scale1,malmo university,,,,,
+27,2009,jacek barcikowski,BBC,BBC,CIID,Yamaha,,,,,
+28,2009,mayo nissen,Frog,ReD Associates,Urbanscale,Radarstation,,,,,
+29,2009,dean mcnamee,Trouble,Google,LEGO,"Wikipedia,Warp Records",Deutsche Bank,GF Smith,The Times,Ableton,Native Instruments
+30,2009,jennifer kay,Intel,CIID,Native Design,,,,,,
+31,2009,pedro nakazato andrade,IDEO,Microsoft Research,Tatil Design,"Insitum Strategy Innovation and Research,",,,,,
+32,2009,elena gianni,The New York Times,CIID Consulting,Experientia,TODO,,,,,
+33,2009,jesper svenning,freelance,PHENOMENON,Nexon,Egmont,,,,,
+34,2009,sebastian roende thielke,Leapcraft,royal danish academy of fine arts,school of design,,,,,,
+35,2009,eric norman stevenson,,,,,,,,,
+36,2009,laura boffi,Indesit Company,Fondazione Bruno Kessler (FBK-irst),"Publicis Healthware International,",,,,,,
+37,2009,shruti ramiah,IDEO,Designit,Nokia,,,,,,
+38,2009,filippo cuttica,BBC,IOCOSE,BBC,Foolproof,Bruce Mau Design,,,,
+39,2009,li bian,Emotibot Technologies Limited,Emotibot,TCL Research,Truonex Corporation,,,,,
+40,2009,ulrik a hogrebe,Frog,BBC,,,,,,,
+41,2011,ali seçkin  karayol,Alis Design,F5 Production,Persona,,,,,,
+42,2011,harsha vardhan ramesh babu,,,,,,,,,
+43,2011,marco triverio,Apple,IDEO,Stanford University,CIID,California College of the Arts,,,,
+44,2011,alix gillet-kirt,CIID consulting,UiWE Culture Design,Tidepool.org,CIID,,,,,
+45,2011,helle rohde andersen,CIID Consulting,Hatch & Bloom A/S,Gademode.dk,,,,,,
+46,2011,marthinus oosthuizen,,,,,,,,,
+47,2011,chris bierbower,,,,,,,,,
+48,2011,hyeona yang,HitFox Group,YMCA,Amoeba design studio,IBM,,,,,
+49,2011,martin tai lyhne jensen,ustwo,"Frugal Digital,CIID",KEA Design Charrette,CIID Open Lecture,,,,,
+50,2011,daim yoon,IBM,Cisco,Native Design,all communication,,,,,
+51,2011,john lynch,Future Cities Catapult,CIID Consulting,Freelance,Noho Ltd.,,,,,
+52,2011,mette lyckegaard,HMRC - Government Digital Service,Elderberry,Native Design,CIID,,,,,
+53,2011,hao-ting chang,HARMAN International,MUUSE,Service Science Research Center,,,,,,
+54,2011,joshua noble,TEAGUE,frog,Independant Consultant,Cynergy Systems,,,,,
+55,2011,wan-ting liao,designaffairs GmbH,Designit,CIRAP,,,,,,
+56,2011,harikrishnan gopalakrishnan,freelance,CIID,,,,,,,
+57,2011,kristjana gudjonsdottir,Qlik,Siminn,,,,,,,
+58,2011,yufan wei wang,LEGO,freelance,,,,,,,
+59,2012,ana catharina marques,caixacard-caixa bank,privalia,EADA,HUMAN MANAGEMENT SYSTEMS,,,,,
+60,2012,kat zorina,IDEO,IDEO,CIID,Freelance,,,,,
+61,2012,razan sadeq,Spotify,stylight gmbh,art+com,vardot,,,,,
+62,2012,andrew nip,sapientnitro,made by many,designit,sap,,,,,
+63,2012,katie kindinger,freelancer,flightradar24 ab,seat4a - the flying app,awesomefat,,,,,
+64,2012,rohit sharma,kl7,CIID,hitlabnz,,,,,,
+65,2012,andrew spitz,frolic,sound + design,sound design stack exchange,seat 4a - the flying app,freelance,,,,
+66,2012,kenneth aleksander robertsen,ideo,CIID,boerresen & co reklamebyra,business graphics as,,,,,
+67,2012,ruben van der vleuten,"frolic ",urogyn bv,vanberlo,,,,,,
+68,2012,andrew stock,,,,,,,,,
+69,2012,kostantinos frantzis,ideo,ideo,intel,velux,,,,,
+70,2012,sara krugman,tidepool.org,line health care design studios,CIID,freelance,,,,,
+71,2012,antoni kaniowski,leapcraft,CIID,wwwas.it,big data viz academy,,,,,
+72,2012,manas karambelkar,dr. reddys laboratories,yuj designs,independent design research,intel,,,,,
+73,2012,signe marbjerg thomsen,vejle hospital,plan f,rundkant,by-rum & lighed,rundkant,hoe360 consulting,,,
+74,2012,dor levi,lyft,groupon,lighthouse technologies,HP,,,,,
+75,2012,markus schmeiduch,google,smeidu,flying,kiezexplorer.com,,,,,
+76,2012,umesh janardhanan,moonraft innovation labs,samsung,,,,,,,
+77,2012,hideaki matsui,google,fuseproject,smart design,united curve design,,,,,
+78,2012,martin malthe borch,implement consulting group,rebbls,university of copenhagen,beatt,gxn-3xn,,,,
+79,2012,zubin pastakia,ideo,frugal,CIID,freelance,,,,,
+80,2012,inbal lieblich,book&me,freelance,norrdans,studio fun international limited,,,,,
+81,2012,momo miyazaki,ideo,ideo,moma,dedegumo,,,,,
+82,2013,angela oguntala,"Head ",Eskild Hansen,CIID,AMD,,,,,
+83,2013,neha parekh,PowerToFly,Mirror Me,8848 Sports Pvt Ltd.,,,,,,
+84,2013,sara salsinha,BBC Future Media,t_insight,,,,,,,
+85,2013,ankkit modi,Pilotfish,Eyebeam,Experiential Design Lab,,,,,,
+86,2013,niels christian konrad nielsen,KCKN,,,,,,,,
+87,2013,shamik ray,Barclaycard,Makersome,Barclays,TouchMagix Media,,,,,
+88,2013,bahareh shahriari,,,,,,,,,
+89,2013,ole stobbe nielsen,Sneezy,,,,,,,,
+90,2013,shu yang lin,Tellart,Griphint,Re:public,Rokoko,,,,,
+91,2013,daniel mahal,Internetfriendsforever,Unfold,Try/Apt,Freelance,,,,,
+92,2013,owen mcfadzen,Sneezy,Rysensteen Collage,ioGates,Designskolen Kolding,,,,,
+93,2013,takeshi okahashi,Coco-on,Hokkaido Univeristy,,,,,,,
+94,2013,jane wong,30 weeks,R/GA,RUNE,Giannone Petricon,Force4 Architects,,,,
+95,2013,pierluigi dalla rosa,binaryfutures,Tellart,Yournalism,Panasonic Silicon Valley Lab,,,,,
+96,2013,wouter walmink,Podio,Citrix,Studio:luden,Zoowm,Wanderlands,RMIT Uiversity,,,
+97,2013,lasse korsgaard,Hello Monday,BBH New York,NERD Communication,,,,,,
+98,2013,priyanka kodikal,Nest:GripHint,Leapcraft,Orange,,,,,,
+99,2013,zaza zuilhof,Tellart,Mediamatic,t Koffiehuisje,,,,,,
+100,2013,luke sturgeon,University of Hertfordshire,SomeOne/Else,The Division,Homemade,,,,,
+101,2013,ritika mathur,Fiserv,LG Electronics,,,,,,,
+102,2014,akarsh sanghi,The Studio,Keio-NUS CUTE Center,Electrolux,LEGO Future Lab,,,,,
+103,2014,claudia ciarpella,Designit,Designit,Clementoni,Electrolux,,,,,
+104,2014,paula te,"Xerox ",CIID,Karkhana,,,,,,
+105,2014,amalia goutaki,DWNLD,Electrolux,Novo Nordisk,TEDxAthens,,,,,
+106,2014,francesca desmarais,CIID consulting,Architecture 2030,The Colorado College,KEO Consultants,,,,,
+107,2014,peter otto kuhberg,CIID,CIID,,,,,,,
+108,2014,anders stougaard erlendsson,Rockwool Foundation Research Unit,Remories,Remories,Wolf by Wolf,Yoke ApS,Danish Maritime,,,
+109,2014,haz roth,Philips Design,KRUKOW,The Young Foundation,Identity Magazine,,,,,
+110,2014,samantha lim,R/GA,Experientia,Keio-NUS CUTE Center,Hewlett-Packard,,,,,
+111,2014,angelisa scalera,Liceo Gobetti-Segré,UNIT9,AGON,Albe Steiner Institute - School of Graphics and Advertising,,,,,
+112,2014,henriette kruse joergensen,,,,,,,,,
+113,2014,samer nakfour,IDEO,,,,,,,,
+114,2014,arun remy mota,Minimiles,,,,,,,,
+115,2014,julian kraan,IDEO,CIID Nest,SchmauderRohr,Crafft Kommunikation,,,,,
+116,2014,saurabh datta,frog,fabrica,tellart,electrolux,lego group,,,,
+117,2014,arunima singh,Dr. Reddy's Laboratories,lucida,,,,,,,
+118,2014,kaitlyn schwalje,,,,,,,,,
+119,2014,simon herzog,CIID nest,Kollabora,Gust,LLC,Stanford University,,,,
+120,2014,bethany snyder,DigitasLBi,Parenthoods,Inc.,PAW,Inc.,East West Fine Art,,,
+121,2014,martino bilello,BBC,SoftLayer,Google,Satyendra Pakhalé Associates,,,,,
+122,2014,yang hsiang-lin,Pegatron,Pilotfish,Pegatron,Inventec Multimedia & Telecom,,,,,
+123,2014,chia yu hsu,frog,Wire™,Chunghwa Telecom Laboratories,PolarLab,,,,,
+124,2014,myoungeun kim,iconmobile group,Experientia,LG Electronics,Motive flux,,,,,
+125,2014,yashodeep gholap,freelance,Fontlab,,,,,,,
+126,2015,akshay verma,ciid,,,,,,,,
+127,2015,aoyu li,,,,,,,,,
+128,2015,melina pyykkonen,Boliden,CIID,Melina Pyykkonen,TomTom,,,,,
+129,2015,alejandra molina,Alemolina,Codeando México,SISU Technologies,,,,,,
+130,2015,havard lundberg,Øyafestivalen AS,The National Archives of Norway,AgroPlas AS,,,,,,
+131,2015,michael owen liston,Design Consultant,CIID,Usability Matters,Bibliocommons,,,,,
+132,2015,andreas refsgaard,Circus Family,IT University of Copenhagen,Forlaget Radius,Thomas Lystlund Studio,,,,,
+133,2015,john ferreira,Media Sifter,CIID,Samsung Design Europe,Fjord,,,,,
+134,2015,riccardo cereser,Facebook,Bloom,,,,,,,
+135,2015,chelsey wickmark,UNDP Idependent Evaluation Office,UN Office for South-South Cooperation,UNICEF,,,,,,
+136,2015,karan chaitanya mudgal,Mylin,Aveta Biomics,Philips Design Healthcare,Jana Mobile,,,,,
+137,2015,sergey komardenkov,Лаборатория Wonderfull,TSYS,RIT Wallace Center,IBM,,,,,
+138,2015,ciaran duffy,CIID,Saitama Prefecture Board of Education,Collège Le Hérault,Nantes,France.,Lycée Professionnelle François Arago,Nantes,France,
+139,2015,kare magnus sand solvag,CIID,,,,,,,,
+140,2015,shruti knr,Scneider Electronic,LG Electronics,,,,,,,
+141,2015,dhruv saxena,littleBits,Robert Bosch Centre for Cyner Physical Systems,Imbibe labs,,,,,,
+142,2015,liliana lambriev,Babylon Berlin,Bridge of Spies,Scholz & Friends,Passengers,,,,,
+143,2015,sierra nelmes,SierraNelmes,Square,,,,,,,
+144,2015,feild craddock,Smat Design,Key Technologies,inch,,,,,,
+145,2015,line brigitte,,,,,,,,,
+146,2015,sudhanshu gautam,CIID,Tech Mahindra,,,,,,,
+147,2015,gunes kantaroglu,Vodafone,Bikent University,,,,,,,
+148,2015,manu dixit,Barclays,IKEA,Human Factor International,,,,,,
+149,2015,victoria hammel,CPH Service Jam,,,,,,,,
+150,2015,vihanga gore,Barclays,IKEA,,,,,,,
+151,2016,luca mustacchi,ciid,jemp,studio alessandri,,,,,,
+152,2016,dario loerke,ciid,copper and wheat,mssng links - gather and create,stadtpark musik,,,,,
+153,2016,monika seyfried,ciid,,,,,,,,
+154,2016,kate twomey,ciid,,,,,,,,
+155,2016,mikio kiura,canon,ciid,webnium,canon,,,,,
+156,2016,lars kaltenbach,ciid,,,,,,,,
+157,2016,daan weijers,ciid,freelance,tellart,no.dots,eindhoven university of technology,less or more,,,
+158,2016,priscila ferreira,ciid,,,,,,,,
+159,2016,justine syen,ciid,procter & gamble,po-events,,,,,,
+160,2016,adriana chiaia,ciid,d-service media srl,mediobanca,ediosmedia,,,,,
+161,2016,cyrus kamath,ciid,l'Oreal,one young world,financial times,,,,,
+162,2016,jivitesh rangline,ciid,fractal ink,rubberband products,vivek amberkar product design,,,,,
+163,2016,sophie chow,ciid,sennheiser,business & technical languages groupe,henan hope project,,,,,
+164,2016,sena partal,ciid,magma design,santa & cole,elisava,,,,,
+165,2016,grishma rao,ciid,pointshelf,ecole intuit lab,radiationism,topcoder,indiecision/NH7,,,
+166,2016,mette moerch,,,,,,,,,
+167,2016,luuk rombouts,ciid,qoion,less or more,chimpworks,de jongens van de tu,camptoo,nano supermarket,,
+168,2016,nicolas armand,ciid,,,,,,,,
+169,2016,iskra uscumlic,ciid,destilerija dobrih ideja,road to design,,,,,,
+170,2016,ines araujo,ciid,metalab,bliss applications,etic escola de tecnologias inovacao e criacao,,,,,
+171,2016,leila byron,ciid,groupe smcp,marc jacobs,un'style'ddesigns,,,,,
+172,2016,charlie gedeon,ciid,sweetiq analytics corp,john molson marketing association,casajmsb,,,,,
+173,2016,bjoern karmann,ciid,moovelLab,masters reklamebureau,mental act studio,,,,,
+174,2016,mary mikhail,ciid,,,,,,,,

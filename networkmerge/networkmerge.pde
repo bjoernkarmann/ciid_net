@@ -3,6 +3,9 @@
   Table sortedData = new Table();
   
   int mID = 0;
+  String fullName;
+  String totalComp;
+  String[] newTotalComp;
   
   
   void setup() {
@@ -11,11 +14,10 @@
     sortedData.addColumn("id");
     sortedData.addColumn("year");
     sortedData.addColumn("name");
-    sortedData.addColumn("companies");
       
     for (TableRow row : networkData.rows()) { 
-      int id = row.getInt("id");
-      int year             = row.getInt("year");
+      int       id         = row.getInt("id");
+      int       year       = row.getInt("year");
       String    firstName  = row.getString("first name");
       String    middleName = row.getString("middle name");
       String    lastName   = row.getString("last name");
@@ -24,18 +26,38 @@
       
       TableRow newRow = sortedData.addRow();
       
+      if(middleName.equals("")) {
+        fullName = firstName + " " + lastName;
+      } else {
+        fullName = firstName + " " + middleName + " " + lastName;
+      }
+      
+      if(curComp.equals("")) {
+        totalComp = prevComp;
+      }
+      else if(prevComp.equals("")) {
+        totalComp = curComp;
+      }
+      else {
+        totalComp = curComp + ", " + prevComp;
+      }
+      
+      newTotalComp = totalComp.split(", ");
+      
       newRow.setInt("id", mID); 
       newRow.setInt("year", year);
       newRow.setString("name", firstName + " " + middleName + " " + lastName);
-      newRow.setString("companies", curComp + ", " + prevComp);
+      
+      for(int i=0; i<newTotalComp.length; i++) {
+        newRow.setString("c"+i, newTotalComp[i]);
+      }
+      
       
       saveTable(sortedData, "data/new.csv");
       mID++;
     }
     
     println("yolo we're done");
-    
-    
   }
   
   void draw() {
