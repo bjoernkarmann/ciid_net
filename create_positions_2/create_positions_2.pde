@@ -40,7 +40,6 @@ void setup(){
       
       col += wordLength+space;
       
-      
       if(col>95){
         col=0;
         row++;
@@ -52,33 +51,37 @@ void setup(){
 void draw(){
   background(255);
   translate(paddingX,paddingY);
-   for (TableRow rowCount : table.rows()){
-      String target   = rowCount.getString("target").toLowerCase();      
-      String related  = rowCount.getString("related").toLowerCase();
-      float x         = rowCount.getFloat("x");
-      float y         = rowCount.getFloat("y");
-      
-      //println(x+","+y+"\t\t"+target);
+  for(int i=0; i<allWords.size(); i++) {
+    wordObject curWord = allWords.get(i);
+    
+    if(curWord.isSelected) 
+      fill(0, 255, 0);
+    else if(curWord.isRelated) 
+      fill(255,0,0);
+    else
       fill(0);
-      textFont(ocr);
-      textMode(SHAPE);
-      text(target,x*kerning,y*leading);
-   } 
-   
-   for(int i=0; i<allWords.size(); i++) {
-     wordObject curWord = allWords.get(i);
-     
-     curWord.checkClicked(mouseX, mouseY);
-     
-     //curWord.printData();
-   }
+    textFont(ocr);
+    textMode(SHAPE);
+    text(curWord.target, curWord.x*charWidth, curWord.y*leading);
+  }
+   //for (TableRow rowCount : table.rows()){
+   //  String target   = rowCount.getString("target").toLowerCase();      
+   //  String related  = rowCount.getString("related").toLowerCase();
+   //  float x         = rowCount.getFloat("x");
+   //  float y         = rowCount.getFloat("y");
+      
+   //  //println(x+","+y+"\t\t"+target);
+   //  fill(0);
+   //  textFont(ocr);
+   //  textMode(SHAPE);
+   //  text(target,x*kerning,y*leading);
+   //} 
     
 }
 
 void mouseClicked() {
-   for(int i=0; i<allWords.size(); i++) {
-     wordObject curWord = allWords.get(i);
-     
-     curWord.checkClicked(mouseX, mouseY);
-   }
+  for(int i=0; i<allWords.size(); i++) {
+    wordObject curWord = allWords.get(i);
+    curWord.checkClicked(mouseX, mouseY);
+  }
 }
