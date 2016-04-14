@@ -2,7 +2,7 @@ target,related
 2008,"siddharth muthyala,tobias toft,yves yu-min chen,ashwin rajan,mimi hyunjeong son,kevin cannon,magnus bendtsen,ujjval panchal,nunzia coco,andreas hesse,sarasiff kjaergård,jacob sikker remin,francesco mondelli,adam litte,marcin ignac,ane aline soerenson,erlend kyte,nina nygaard christoffersen,eilidh dickson,hung-lin hsu jason,alice pintus"
 2009,"jesper svenning,elena gianni,filippo cuttica,li bian,pedro nakazato andrade,ulrik a hogrebe,shruti ramiah,laura boffi,sebastian roende thielke,mayo nissen,gizem boyacioglu,martina pagura,benoit ishac bertran,jacek barcikowski,jennifer kay,dean mcnamee,david sjunneson,anders hoejmose,mary huang,eric norman stevenson"
 2011,"marthinus oosthuizen,ali seçkin  karayol,daim yoon,marco triverio,martin tai lyhne jensen,hyeona yang,chris bierbower,harsha vardhan ramesh babu,alix gillet-kirt,joshua noble,john lynch,mette lyckegaard,harikrishnan gopalakrishnan,helle rohde andersen,wan-ting liao,hao-ting chang,yufan wei wang,kristjana gudjonsdottir"
-2012,"kostantinos frantzis,ana catharina marques,andrew spitz,razan sadeq,kat zorina,hideaki matsui,kenneth aleksander robertsen,martin malthe borch,katie kindinger,andrew nip,antoni kaniowski,rohit sharma,zubin pastakia,momo miyazaki,markus schmeiduch,signe marbjerg thomsen,dor levi,inbal lieblich,ruben van der vleuten,andrew stock,umesh janardhanan,manas karambelkar,sara krugman"
+2012,"kostantinos frantzis,ana catharina marques,andrew spitz,razan sadeq,kat zorina,hideaki matsui,kenneth robertsen,martin malthe borch,katie kindinger,andrew nip,antoni kaniowski,rohit sharma,zubin pastakia,momo miyazaki,markus schmeiduch,signe marbjerg thomsen,dor levi,inbal lieblich,ruben van der vleuten,andrew stock,umesh janardhanan,manas karambelkar,sara krugman"
 2013,"angela oguntala,takeshi okahashi,neha parekh,wouter walmink,bahareh shahriari,luke sturgeon,lasse korsgaard,ritika mathur,shamik ray,zaza zuilhof,pierluigi dalla rosa,priyanka kodikal,niels christian konrad nielsen,jane wong,ankkit modi,owen mcfadzen,ole stobbe nielsen,shu yang lin,sara salsinha,daniel mahal"
 2014,"arunima singh,yashodeep gholap,simon herzog,arun remy mota,kaitlyn schwalje,saurabh datta,bethany snyder,myoungeun kim,akarsh sanghi,anders stougaard erlendsson,angelisa scalera,samantha lim,haz roth,henriette kruse joergensen,martino bilello,julian kraan,francesca desmarais,amalia goutaki,samer nakfour,peter otto kuhberg,paula te,claudia ciarpella,yang hsiang-lin,chia yu hsu"
 2015,"havard lundberg,john ferreira,vihanga gore,ciaran duffy,melina pyykkonen,sergey komardenkov,akshay verma,michael owen liston,aoyu li,alejandra molina,liliana lambriev,manu dixit,feild craddock,line brigitte,victoria hammel,kare magnus sand solvag,dhruv saxena,gunes kantaroglu,shruti knr,sudhanshu gautam,sierra nelmes,karan chaitanya mudgal,riccardo cereser,chelsey wickmark,andreas refsgaard"
@@ -66,16 +66,16 @@ bibliocommons,michael owen liston
 big data viz academy,antoni kaniowski
 bikent university,gunes kantaroglu
 binaryfutures,pierluigi dalla rosa
-bjoern karmann,"2016,ciid,moovellab,masters reklamebureau,mental act studio,,,,,"
+bjoern karmann,"2016,ciid,moovellab,masters,mental act studio,,,,,"
 bliss applications,ines araujo
 bloom,riccardo cereser
-boerresen & co reklamebyra,kenneth aleksander robertsen
+boerresen & co reklamebyra,kenneth robertsen
 boliden,melina pyykkonen
 book&me,inbal lieblich
 bridge of spies,liliana lambriev
 bruce mau design,filippo cuttica
 BTL Group,sophie chow
-business graphics as,kenneth aleksander robertsen
+business graphics as,kenneth robertsen
 by-rum & lighed,signe marbjerg thomsen
 byc group,gizem boyacioglu
 caixacard-caixa bank,ana catharina marques
@@ -90,7 +90,7 @@ chimpworks,luuk rombouts
 chris bierbower,"2011,,,,,,,,,"
 chunghwa telecom laboratories,chia yu hsu
 ciaran duffy,"2015,ciid,spec jp,collège le hérault.,lycée arago,,,,,"
-ciid,"nicolas armand,iskra uscumlic,grishma rao,jacek barcikowski,leila byron,martin tai lyhne jensen,ines araujo,peter otto kuhberg,monika seyfried,sara krugman,mary mikhail,dario loerke,justine syen,bjoern karmann,cyrus kamath,daan weijers,adriana chiaia,lars kaltenbach,akshay verma,charlie gedeon,sophie chow,luca mustacchi,ciaran duffy,mette lyckegaard,kat zorina,anders hoejmose,sena partal,angela oguntala,kate twomey,marco triverio,jivitesh rangline,priscila ferreira,sudhanshu gautam,alix gillet-kirt,luuk rombouts,kare magnus sand solvag,zubin pastakia,melina pyykkonen,kenneth aleksander robertsen,martina pagura,rohit sharma,antoni kaniowski,paula te,john ferreira,jennifer kay,gizem boyacioglu,harikrishnan gopalakrishnan,michael owen liston,mikio kiura,peter otto kuhberg"
+ciid,"nicolas armand,iskra uscumlic,grishma rao,jacek barcikowski,leila byron,martin tai lyhne jensen,ines araujo,peter otto kuhberg,monika seyfried,sara krugman,mary mikhail,dario loerke,justine syen,bjoern karmann,cyrus kamath,daan weijers,adriana chiaia,lars kaltenbach,akshay verma,charlie gedeon,sophie chow,luca mustacchi,ciaran duffy,mette lyckegaard,kat zorina,anders hoejmose,sena partal,angela oguntala,kate twomey,marco triverio,jivitesh rangline,priscila ferreira,sudhanshu gautam,alix gillet-kirt,luuk rombouts,kare magnus sand solvag,zubin pastakia,melina pyykkonen,kenneth robertsen,martina pagura,rohit sharma,antoni kaniowski,paula te,john ferreira,jennifer kay,gizem boyacioglu,harikrishnan gopalakrishnan,michael owen liston,mikio kiura,peter otto kuhberg"
 ciid consulting,"alix gillet-kirt,helle rohde andersen,eilidh dickson,francesca desmarais,john lynch,elena gianni"
 ciid nest,"simon herzog,julian kraan"
 ciid open lecture,martin tai lyhne jensen
@@ -128,8 +128,7 @@ deutsche bank,dean mcnamee
 dhruv saxena,"2015,littlebits,rbccps,imbibe labs,,,,,,"
 digitaslbi,bethany snyder
 dor levi,"2012,lyft,groupon,lighthouse technologies,hp,,,,,"
-dr. reddy's laboratories,arunima singh
-dr. reddys laboratories,manas karambelkar
+dr. reddy's laboratories,"arunima singh,manas karambelkar"
 dwnld,amalia goutaki
 eada,ana catharina marques
 east west fine art,bethany snyder
@@ -206,7 +205,7 @@ hewlett-packard,samantha lim
 hideaki matsui,"2012,google,fuseproject,smart design,united curve design,,,,,"
 hitfox group,hyeona yang
 hitlabnz,rohit sharma
-hmrc - government digital service,mette lyckegaard
+hmrc government digital service,mette lyckegaard
 hoe360 consulting,signe marbjerg thomsen
 hokkaido univeristy,takeshi okahashi
 homemade,luke sturgeon
@@ -218,7 +217,7 @@ hyeona yang,"2011,hitfox group,ymca,amoeba design studio,ibm,,,,,"
 ibm,"hyeona yang,anders hoejmose,daim yoon,sergey komardenkov"
 iconmobile group,myoungeun kim
 identity magazine,haz roth
-ideo,"samer nakfour,kostantinos frantzis,kenneth aleksander robertsen,kat zorina,kostantinos frantzis,marco triverio,momo miyazaki,julian kraan,zubin pastakia,momo miyazaki,david sjunneson,pedro nakazato andrade,kat zorina,shruti ramiah"
+ideo,"samer nakfour,kostantinos frantzis,kenneth robertsen,kat zorina,kostantinos frantzis,marco triverio,momo miyazaki,julian kraan,zubin pastakia,momo miyazaki,david sjunneson,pedro nakazato andrade,kat zorina,shruti ramiah"
 ikea,"manu dixit,vihanga gore"
 imbibe labs,dhruv saxena
 implement consulting group,martin malthe borch
@@ -253,7 +252,7 @@ joshua noble,"2011,teague,frog,independant consultant,cynergy systems,,,,,"
 julian kraan,"2014,ideo,ciid nest,schmauderrohr,crafft kommunikation,,,,,"
 justine syen,"2016,ciid,procter & gamble,po-events,,,,,,"
 kaitlyn schwalje,"2014,,,,,,,,,"
-karan chaitanya mudgal,"2015,mylin,aveta biomics,philips design healthcare,jana mobile,,,,,"
+karan chaitanya mudgal,"2015,mylin,aveta biomics,philips healthcare,jana mobile,,,,,"
 kare magnus sand solvag,"2015,ciid,,,,,,,,"
 karkhana,paula te
 kat zorina,"2012,ideo,ideo,ciid,freelance,,,,,"
@@ -262,7 +261,7 @@ katie kindinger,"2012,freelancer,flightradar24 ab,seat4a - the flying app,awesom
 kckn,niels christian konrad nielsen
 kea design charrette,martin tai lyhne jensen
 keio-nus cute center,"samantha lim,akarsh sanghi"
-kenneth aleksander robertsen,"2012,ideo,ciid,boerresen & co reklamebyra,business graphics as,,,,,"
+kenneth robertsen,"2012,ideo,ciid,boerresen & co reklamebyra,business graphics as,,,,,"
 keo consultants,francesca desmarais
 kevin cannon,"2008,frog,,,,,,,,"
 key technologies,feild craddock
@@ -305,7 +304,7 @@ magma design,sena partal
 magnus bendtsen,"2008,lungeforeningen,,,,,,,,"
 makersome,shamik ray
 malmo university,david sjunneson
-manas karambelkar,"2012,dr. reddys laboratories,yuj designs,independent design research,intel,,,,,"
+manas karambelkar,"2012,dr. reddy's laboratories,yuj designs,independent design research,intel,,,,,"
 manu dixit,"2015,barclays,ikea,human factor international,,,,,,"
 marc jacobs,leila byron
 marcin ignac,"2008,variable.io,,,,,,,,"
@@ -318,7 +317,7 @@ martina pagura,"2009,hp,ciid,microsoft research,,,,,,"
 martino bilello,"2014,bbc,softlayer,google,satyendra pakhalé associates,,,,,"
 mary huang,"2009,continuum fashion,new york university,shapeways,local projects,,,,,"
 mary mikhail,"2016,ciid,,,,,,,,"
-masters reklamebureau,bjoern karmann
+masters,bjoern karmann
 mayo nissen,"2009,frog,red associates,urbanscale,radarstation,,,,,"
 media sifter,john ferreira
 mediamatic,zaza zuilhof
@@ -326,7 +325,7 @@ mediobanca,adriana chiaia
 melina pyykkonen,"2015,boliden,ciid,melina pyykkonen,tomtom,,,,,,melina pyykkonen"
 mental act studio,bjoern karmann
 metalab,ines araujo
-mette lyckegaard,"2011,hmrc - government digital service,elderberry,native design,ciid,,,,,"
+mette lyckegaard,"2011,hmrc government digital service,elderberry,native design,ciid,,,,,"
 mette moerch,"2016,,,,,,,,,"
 michael owen liston,"2015,design consultant,ciid,usability matters,bibliocommons,,,,,"
 microsoft research,"pedro nakazato andrade,martina pagura"
@@ -375,7 +374,7 @@ persona,ali seçkin  karayol
 peter otto kuhberg,"2014,ciid,ciid,,,,,,,"
 phenomenon,jesper svenning
 philips design,haz roth
-philips design healthcare,karan chaitanya mudgal
+philips healthcare,karan chaitanya mudgal
 pierluigi dalla rosa,"2013,binaryfutures,tellart,yournalism,panasonic,,,,,"
 pilotfish,"yang hsiang-lin,ankkit modi"
 pimp my pixel,andreas hesse
@@ -471,7 +470,7 @@ studio:luden,wouter walmink
 stylight gmbh,razan sadeq
 sudhanshu gautam,"2015,ciid,tech mahindra,,,,,,,"
 sweetiq analytics corp,charlie gedeon
-t koffiehuisje,zaza zuilhof
+koffiehuisje,zaza zuilhof
 t_insight,sara salsinha
 takeshi okahashi,"2013,coco-on,hokkaido univeristy,,,,,,,"
 tatil design,pedro nakazato andrade
@@ -549,7 +548,7 @@ yuanfen~flow,jacob sikker remin
 yufan wei wang,"2011,lego,freelance,,,,,,,"
 yuj designs,manas karambelkar
 yves yu-min chen,"2008,uknowiknow.com,,,,,,,,"
-zaza zuilhof,"2013,tellart,mediamatic,t koffiehuisje,,,,,,"
+zaza zuilhof,"2013,tellart,mediamatic,koffiehuisje,,,,,,"
 zoowm,wouter walmink
 zubin pastakia,"2012,ideo,frugal,ciid,freelance,,,,,"
 øyafestivalen as,havard lundberg
