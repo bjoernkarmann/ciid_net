@@ -31,13 +31,11 @@ void setup(){
   }
   
   for(int i=0; i<target.length(); i++){
-    x++;
-    
+    x++;  
     if(x * kerning > width - paddingX * 2){
       y++;
       x=0;
-    }
-    
+    }    
   if(x == 0 && target.charAt(i) == ' '){
     x--;
   }
@@ -49,6 +47,11 @@ void setup(){
   println(x);
   
   }
+  
+  String searchable = "ideo";
+  int p1 = target.indexOf(searchable);
+  println(p1);
+  println(p1 + searchable.length());
   
   println("done !");
   //exit();
