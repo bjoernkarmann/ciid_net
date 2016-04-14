@@ -102,8 +102,14 @@
       
     
     }
+<<<<<<< Updated upstream
     saveTable(sortedTable, "data/sorted.csv");
    //println(sortedTable.getRowCount());
+=======
+         
+    saveTable(compressedTable, "../data/horse.csv");
+    println(compressedTable.getRowCount());
+>>>>>>> Stashed changes
   }
   
   void draw() {
