@@ -1,4 +1,5 @@
 class wordObject {
+  int index;
   float x;
   float y;
   float leftBound;
@@ -13,7 +14,8 @@ class wordObject {
   boolean isRelated = false;
   boolean isSelected = false;
 
-  wordObject(float _x, float _y, String _target, String _related, int _wordLength) {
+  wordObject(int _index, float _x, float _y, String _target, String _related, int _wordLength) {
+    index = _index;
     x = _x;
     y = _y;
     target = _target;
@@ -33,27 +35,29 @@ class wordObject {
     println(leftBound+","+rightBound+","+topBound+","+botBound+"\t\t"+target);
   }
 
-  void checkClicked() {
-    if (mouseX - paddingX > leftBound && mouseX - paddingX < rightBound && mouseY - paddingY > topBound && mouseY - paddingY < botBound) {
-      highlightSelected();
+  void checkClicked(wordObject _tempWord) {
+    if (mouseX - paddingX > _tempWord.leftBound && mouseX - paddingX < _tempWord.rightBound && mouseY - paddingY > _tempWord.topBound && mouseY - paddingY < _tempWord.botBound) {
+      highlightSelected(_tempWord);
     }
   }
   
-  void highlightSelected() {
-    if (!this.isSelected) {
+  void highlightSelected(wordObject _curWord) {
+    wordObject workWord = _curWord;
+    if (!workWord.isSelected) {
         for (int k=0; k<allWords.size(); k++) {
           allWords.get(k).isRelated = false;
           allWords.get(k).isSelected = false;
         }
-        this.isSelected = true;
+        workWord.isSelected = true;
         anythingSelected = true;
-        highlightRelated(this.related);
-      } else if (this.isSelected) {
+        
+        highlightRelated(workWord.related);
+      } else if (workWord.isSelected) {
         for (int k=0; k<allWords.size(); k++) {
           allWords.get(k).isRelated = false;
           allWords.get(k).isSelected = false;
         }
-        this.isSelected = false;
+        workWord.isSelected = false;
         anythingSelected = false;
       }
   }
